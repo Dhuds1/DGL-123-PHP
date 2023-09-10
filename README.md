@@ -9,7 +9,7 @@
 > 5. Added a key of ['protein'] and a value of 7.3 to the assosiated array, I learned that you can add keys and values after the fact. This is cool!
 > 6. Added another item of 'Chocolaty' to the assosiated array inside an array, set the ['price'] to 2 and the ['quantity'] to 83
 > 7. Changed the $name from Ivy -> 'Dawson', added 'Egg Gummies' to index[0] of the array
-> 8. Changed the ['price'] to 3.290047393364929 and ['quantity'] of items to 211, additionally, I added a round($subtotal) __for the memes__.
+> 8. Changed the ['price'] to 3.290047393364929 and ['items'] to 211, additionally, I added a round($subtotal) __for the memes__.
 > 9. Changed the $message = $prefix . ', ' . $name; -> $message = "$prefix, $name"; I never really understood the difference between the quotes until this chapter, so that's cool!
 > 10. Swaped the values of ['stock'] and ['wanted'] to see how the comparison opperator worked
 > 11. Swaped the values of ['stock'] and ['wanted'] to see how the logical opperators worked
