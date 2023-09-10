@@ -5,7 +5,6 @@ $nutrition = [
     'salt'  => 6.3,
     'protein' => 2.6,
 ];
-
 $nutrition['fat'] = 42;
 $nutrition['sugar'] = 60;
 $nutrition['salt'] = 3.5;
