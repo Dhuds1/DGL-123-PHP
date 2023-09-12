@@ -17,7 +17,7 @@
 > 12. Changed the $name from Ivy -> 'Dawson', changed the $greeting from 'Hello' -> 'Hi', updated the ['qty'] of candy from 5 -> 3, updated the ['price'] of candy from 5 -> 6
 ### Laracast
 > 1. Created a folder, subfolder, index.php file and added basic boiler code
-> 2. Added an <h1> tag containting a <?PHP ?> tag inside
+> 2. Added an h1 tag containting a <?PHP ?> tag inside
 > 3. Echoed a basic greeting inside the php tag
 > 4. Replaced the hard coded greeing with a variable
 ### Summary
