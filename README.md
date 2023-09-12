@@ -2,6 +2,7 @@
 ### For the PHP learning and stuff, and random rants about coffee, potentially.
 
 ## __Week 1__
+### PHP book
 > 1. Changed the Variable $name from Ivy -> 'Dawson'
 > 2. Changed the Variable $name from Ivy -> 'Dawson' and added another $name and set it to 'Evelynn'
 > 3. Changed the values of ['salt'], ['sugar'] and ['fat'], did it differently than they wanted, because I wanted to do it differently, added ['protein'] to the assosiative array
@@ -14,6 +15,10 @@
 > 10. Swaped the values of ['stock'] and ['wanted'] to see how the comparison opperator worked
 > 11. Swaped the values of ['stock'] and ['wanted'] to see how the logical opperators worked
 > 12. Changed the $name from Ivy -> 'Dawson', changed the $greeting from 'Hello' -> 'Hi', updated the ['qty'] of candy from 5 -> 3, updated the ['price'] of candy from 5 -> 6
->
-> ### Summary
+### Laracast
+> 1. Created a folder, subfolder, index.php file and added basic boiler code
+> 2. Added an <h1> tag containting a <?PHP ?> tag inside
+> 3. Echoed a basic greeting inside the php tag
+> 4. Replaced the hard coded greeing with a variable
+### Summary
 > In general, most of this chapter were things I already knew, and I only learned a few things: Spaceship opperator, difference between "double quotes" and 'single quotes' and being able to expand an assosiative array after its declaration.
