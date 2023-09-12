@@ -6,7 +6,13 @@
 </head>
 <body>
     
-    <H1>Hello World!</H1>
+    <H1>
+
+        <?php
+            echo 'Hello, world';
+        ?>
+
+    </H1>
 
 </body>
 </html>
